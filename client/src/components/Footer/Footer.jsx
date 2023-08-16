@@ -15,7 +15,7 @@ const Footer = () => {
 
         <div className="flexColStart f-right">
           <span className="primaryText">Information</span>
-          <span className="secondaryText">INDIA , MUMBAI</span>
+          <span className="secondaryText">MUMBAI , INDIA</span>
           <div className="flexCenter f-menu">
             <span>Property</span>
             <span>Services</span>
