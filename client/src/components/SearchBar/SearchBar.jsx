@@ -11,7 +11,7 @@ const SearchBar = ({ filter, setFilter }) => {
         value={filter}
         onChange={(e) => setFilter(e.target.value)}
       />
-      <button className="button">Search</button>
+    <button className="button">Search</button>
     </div>
   );
 };
